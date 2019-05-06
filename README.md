@@ -19,13 +19,13 @@ Everyone at one point in there life has not known where to eat or they don't car
 
 First type in your zipcode and your address This is required
 
-* Future developments
-Add you have the option to add filters like:
-Mile radius
-Price range
-Star Rating
-If you would like to be redirected to open table to make a reservation (if the restaurant offers that option.)
-*
+Future developments:
+* Add you have the option to add filters like:
+* Mile radius
+* Price range
+* Star Rating
+* If you would like to be redirected to open table to make a reservation (if the restaurant offers that option.)
+
 
 If you don't have any preferences then press submit!
 Once you are done will all of that, the magic AteBall will display a modal with the the random restaurant. The modal will show:
