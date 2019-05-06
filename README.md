@@ -36,4 +36,4 @@ Once you are done will all of that, the magic AteBall will display a modal with 
 * Star rating
 * Price range
 * If you would like to be redirected to the website or the yelp page
-* A map showing the directions to get the restaurant picked.
+* A Google Map showing the directions to get the restaurant picked.
